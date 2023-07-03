@@ -1,0 +1,3 @@
+RealMadrid: 7
+Barcelona: 6
+City: 2

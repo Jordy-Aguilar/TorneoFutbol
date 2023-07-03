@@ -1,0 +1,6 @@
+RealMadrid Barcelona 1 2
+RealMadrid City 4 0
+Barcelona RealMadrid 4 4
+Barcelona City 3 3
+City RealMadrid 2 4
+City Barcelona 0 0
